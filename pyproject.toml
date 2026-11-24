@@ -13,5 +13,5 @@ dependencies = [
     "streamlit>=1.67.0",
 ]
 
-[tool.uv]
-package = false
+[tool.setuptools]
+py-modules = []
