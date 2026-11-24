@@ -13,8 +13,5 @@ dependencies = [
     "streamlit>=1.67.0",
 ]
 
-[project.scripts]
-bike-sharing-app = "bike_sharing_app:main"
-
 [tool.uv]
 package = false
